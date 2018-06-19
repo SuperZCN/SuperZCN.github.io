@@ -1,8 +1,10 @@
-## Welcome to SuperZCN Pages
+# Welcome to SuperZCN Pages
 
-You can use the [editor on GitHub](https://github.com/SuperZCN/SuperZCN.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**SuperZCN：Tasted the sweet perfume of the mountain grass I rolled down.From *[Castle on the Hill](https://y.qq.com/n/yqq/song/000AnymG3bg0be.html?play=1)*** 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you saw the darkness in front of you, don't be afraid, that's because sunshine is at your back.                    如果你看到面前的阴影，别怕，那是因为你的背后有阳光。
+
+![Image](C:\Users\SuperZCN\Desktop\SuperZCN.github.io-master\1.jpg)                                                                                                                          
 
 ### Markdown
 
