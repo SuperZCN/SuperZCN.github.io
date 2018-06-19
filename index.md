@@ -2,7 +2,8 @@
 
 **SuperZCN：Tasted the sweet perfume of the mountain grass I rolled down.From *[Castle on the Hill](https://y.qq.com/n/yqq/song/000AnymG3bg0be.html?play=1)*** 
 
-If you saw the darkness in front of you, don't be afraid, that's because sunshine is at your back.                    如果你看到面前的阴影，别怕，那是因为你的背后有阳光。
+If you saw the darkness in front of you, don't be afraid, that's because sunshine is at your back.                    
+如果你看到面前的阴影，别怕，那是因为你的背后有阳光。
 
 ![Image2](1.jpg)                                                                                                                          
 
