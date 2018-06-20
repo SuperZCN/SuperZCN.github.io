@@ -54,3 +54,6 @@ While today the site is surrounded by desert, upon completion the tower will be 
 Boasting a gross floor area of 2.6 million square feet (243,866 square meters) over 252 stories, the tower will also feature the world's highest observation deck at 2,178 feet (664 meters) off the ground, with a 5,382 square feet (500 square meter) outdoor platform.
 
 *From [CNN](https://edition.cnn.com/style/article/jeddah-tower-saudi-arabia-new/index.html)*
+$$
+E=mc^2
+$$
